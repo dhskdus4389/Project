@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "name": "node-express",
+            "name": "Project",
             "script": "./node_modules/.bin/ts-node",
             "args": "./src/index.ts",
             "watch": true
