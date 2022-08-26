@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /var/www/html
+cd /var/www/html/Project
 rm -rf node
 rm -rf php
 rm -rf scripts
