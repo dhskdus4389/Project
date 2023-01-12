@@ -1,0 +1,11 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Compute/virtualMachines/web1",
+  "location": "koreacentral",
+  "macAddress": "60-45-BD-47-71-8A",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.1.4",
+  "publicIpAddress": "",
+  "resourceGroup": "cps_ony_20230112",
+  "zones": ""
+}

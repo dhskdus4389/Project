@@ -1,0 +1,21 @@
+{
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Compute/availabilitySets/Was",
+  "location": "koreacentral",
+  "name": "Was",
+  "platformFaultDomainCount": 2,
+  "platformUpdateDomainCount": 5,
+  "proximityPlacementGroup": {
+    "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/CPS_ONY_20230112/providers/Microsoft.Compute/proximityPlacementGroups/was",
+    "resourceGroup": "CPS_ONY_20230112"
+  },
+  "resourceGroup": "cps_ony_20230112",
+  "sku": {
+    "capacity": null,
+    "name": "Aligned",
+    "tier": null
+  },
+  "statuses": null,
+  "tags": {},
+  "type": "Microsoft.Compute/availabilitySets",
+  "virtualMachines": []
+}

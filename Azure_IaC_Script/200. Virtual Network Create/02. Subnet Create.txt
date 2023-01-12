@@ -1,0 +1,3 @@
+az network vnet subnet create --resource-group cps_ony_20230112 --vnet-name testVNet --name BASTION --address-prefix 10.0.3.0/24 --network-security-group BASTION > BASTION_Subnet_Create.json
+az network vnet subnet create --resource-group cps_ony_20230112 --vnet-name testVNet --name WEB --address-prefix 10.0.1.0/24 --network-security-group WEB > WEB_Subnet_Create.json
+az network vnet subnet create --resource-group cps_ony_20230112 --vnet-name testVNet --name WAS --address-prefix 10.0.2.0/24 --network-security-group WAS > WAS_Subnet_Create.json

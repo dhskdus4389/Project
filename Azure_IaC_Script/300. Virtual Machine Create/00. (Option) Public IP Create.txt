@@ -1,0 +1,1 @@
+az network public-ip create --resource-group cps_ony_20230112 --name testPublicIP --allocation-method Static > Public-IP_Create.json

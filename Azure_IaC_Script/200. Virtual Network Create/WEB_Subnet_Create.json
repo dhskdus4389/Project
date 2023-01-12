@@ -1,0 +1,16 @@
+{
+  "addressPrefix": "10.0.1.0/24",
+  "delegations": [],
+  "etag": "W/\"81d8ae79-dba8-4c9c-a7a7-da5928790c04\"",
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Network/virtualNetworks/testVNet/subnets/WEB",
+  "name": "WEB",
+  "networkSecurityGroup": {
+    "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Network/networkSecurityGroups/WEB",
+    "resourceGroup": "cps_ony_20230112"
+  },
+  "privateEndpointNetworkPolicies": "Disabled",
+  "privateLinkServiceNetworkPolicies": "Enabled",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "cps_ony_20230112",
+  "type": "Microsoft.Network/virtualNetworks/subnets"
+}

@@ -1,0 +1,19 @@
+{
+  "availabilitySets": null,
+  "colocationStatus": null,
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Compute/proximityPlacementGroups/web",
+  "intent": {
+    "vmSizes": [
+      "Standard_A1_v2"
+    ]
+  },
+  "location": "koreacentral",
+  "name": "web",
+  "proximityPlacementGroupType": "Standard",
+  "resourceGroup": "cps_ony_20230112",
+  "tags": {},
+  "type": "Microsoft.Compute/proximityPlacementGroups",
+  "virtualMachineScaleSets": null,
+  "virtualMachines": null,
+  "zones": null
+}

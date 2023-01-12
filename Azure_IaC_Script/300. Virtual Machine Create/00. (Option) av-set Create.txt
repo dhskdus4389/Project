@@ -1,0 +1,4 @@
+az ppg create --resource-group cps_ony_20230112 --name web --intent-vm-sizes Standard_A1_v2 > PPG_web_Create.json
+az ppg create --resource-group cps_ony_20230112 --name was --intent-vm-sizes Standard_A1_v2 > PPG_was_Create.json
+az vm availability-set create --resource-group cps_ony_20230112 --name Web --platform-fault-domain-count 2 --platform-update-domain-count 5 --ppg web > Web_availability-set.json
+az vm availability-set create --resource-group cps_ony_20230112 --name Was --platform-fault-domain-count 2 --platform-update-domain-count 5 --ppg was > Was_availability-set.json

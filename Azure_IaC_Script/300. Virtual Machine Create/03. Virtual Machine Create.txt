@@ -1,0 +1,5 @@
+az vm create --resource-group cps_ony_20230112 --name bastion --image UbuntuLTS --size Standard_A1_v2 --admin-username nayeon --admin-password As1964220??? --nics bastion > bastion_VM_Create.json
+az vm create --resource-group cps_ony_20230112 --name web1 --image UbuntuLTS --size Standard_A1_v2 --admin-username nayeon --admin-password As1964220??? --nics web1 > web1_VM_Create.json
+az vm create --resource-group cps_ony_20230112 --name web2 --image UbuntuLTS --size Standard_A1_v2 --admin-username nayeon --admin-password As1964220??? --nics web2 > web2_VM_Create.json
+az vm create --resource-group cps_ony_20230112 --name was1 --image UbuntuLTS --size Standard_A1_v2 --admin-username nayeon --admin-password As1964220??? --nics was1 > was1_VM_Create.json
+az vm create --resource-group cps_ony_20230112 --name was2 --image UbuntuLTS --size Standard_A1_v2 --admin-username nayeon --admin-password As1964220??? --nics was2 > was2_VM_Create.json

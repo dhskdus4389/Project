@@ -1,0 +1,11 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Compute/virtualMachines/bastion",
+  "location": "koreacentral",
+  "macAddress": "00-22-48-F7-2C-EA",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.3.4",
+  "publicIpAddress": "4.230.45.50",
+  "resourceGroup": "cps_ony_20230112",
+  "zones": ""
+}

@@ -1,0 +1,2 @@
+az network lb create --resource-group CPS_ONY --name ExLB --sku Basic 
+az network lb create --resource-group CPS_ONY --name InLB --vnet-name testVNet --subnet WAS

@@ -1,0 +1,11 @@
+{
+  "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112",
+  "location": "koreacentral",
+  "managedBy": null,
+  "name": "cps_ony_20230112",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": null,
+  "type": "Microsoft.Resources/resourceGroups"
+}

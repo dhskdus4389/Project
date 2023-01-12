@@ -1,0 +1,6 @@
+az network nic create --resource-group cps_ony_20230112 --vnet-name testVNet --subnet BASTION --name bastion --public-ip-address testPublicIP > bastion_NIC_Create.json
+az network nic create --resource-group cps_ony_20230112 --vnet-name testVNet --subnet WEB --name web1 > web1_NIC_Create.json
+az network nic create --resource-group cps_ony_20230112 --vnet-name testVNet --subnet WEB --name web2 > web2_NIC_Create.json
+az network nic create --resource-group cps_ony_20230112 --vnet-name testVNet --subnet WAS --name was1 > was1_NIC_Create.json
+az network nic create --resource-group cps_ony_20230112 --vnet-name testVNet --subnet WAS --name was2 > was2_NIC_Create.json
+

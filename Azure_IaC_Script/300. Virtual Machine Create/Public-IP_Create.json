@@ -1,0 +1,21 @@
+{
+  "publicIp": {
+    "etag": "W/\"be720c4c-e8ef-4f34-9472-4bb9c49a5b68\"",
+    "id": "/subscriptions/4e4c2756-0387-44bb-a209-350c85c530eb/resourceGroups/cps_ony_20230112/providers/Microsoft.Network/publicIPAddresses/testPublicIP",
+    "idleTimeoutInMinutes": 4,
+    "ipAddress": "20.249.79.217",
+    "ipTags": [],
+    "location": "koreacentral",
+    "name": "testPublicIP",
+    "provisioningState": "Succeeded",
+    "publicIPAddressVersion": "IPv4",
+    "publicIPAllocationMethod": "Static",
+    "resourceGroup": "cps_ony_20230112",
+    "resourceGuid": "0fc86898-5249-4427-9588-0565b199e821",
+    "sku": {
+      "name": "Basic",
+      "tier": "Regional"
+    },
+    "type": "Microsoft.Network/publicIPAddresses"
+  }
+}

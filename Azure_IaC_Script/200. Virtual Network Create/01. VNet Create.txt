@@ -1,0 +1,1 @@
+az network vnet create --resource-group cps_ony_20230112 --name testVNet --address-prefix 10.0.0.0/16 --subnet-name default --subnet-prefix 10.0.0.0/24 > vnet_create.json
